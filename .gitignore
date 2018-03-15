@@ -1,4 +1,9 @@
 /downloader
-/var
+/var/package
+/var/report
+/var/brute-force.ini
+/var/cache
+/var/session
+
 /media/css
 /media/js
